@@ -1,0 +1,8 @@
+prefix=/home/ocean/catkin_ws/devel
+
+Name: find_room
+Description: Description of find_room
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ocean/catkin_ws/devel/lib 
+Requires: 

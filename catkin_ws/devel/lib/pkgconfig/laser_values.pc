@@ -1,0 +1,8 @@
+prefix=/home/ocean/catkin_ws/devel
+
+Name: laser_values
+Description: Description of laser_values
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ocean/catkin_ws/devel/lib 
+Requires: 

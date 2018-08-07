@@ -1,0 +1,2 @@
+find_room:laser_values:path_planning:using_markers
+-DCATKIN_DEVEL_PREFIX=/home/ocean/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ocean/catkin_ws/install -G Unix Makefiles
